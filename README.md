@@ -1,1 +1,1 @@
-# magento-jenkins-integrate
+# magento-jenkins-integrate-test
